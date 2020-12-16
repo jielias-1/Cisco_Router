@@ -1,6 +1,6 @@
 ---
 - name: Show Version
-  hosts: routers
+  hosts: all
   gather_facts: false
   connection: local
 
