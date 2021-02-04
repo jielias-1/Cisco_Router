@@ -1,3 +1,3 @@
 # Cisco_Router
-type
-show
+# Hi Friends
+# yo
